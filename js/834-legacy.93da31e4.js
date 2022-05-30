@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[834],{7834:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("我是团购订单内容")])},a=[],r={name:"ProjectShpIndex"},c=r,l=t(1001),p=(0,l.Z)(c,u,a,!1,null,"55ba66ea",null),s=p.exports}}]);
